@@ -1,5 +1,23 @@
+### Table of Contents
+
+- [Data Source](#data-source)
+- [Key Questions Explored](#key-questions-explored)
+- [Data Preprocessing](#data-preprocessing)
+- [Data Analysis](#data-analysis)
+  - [Sales Trends Over Time](#sales-trends-over-time)
+  - [Product Performance Assessment](#product-performance-assessment)
+  - [Top-Selling Products by Quantity](#top-selling-products-by-quantity)
+  - [Geographical Sales Distribution](#geographical-sales-distribution)
+  - [Top 5 Cities with Highest Order Volumes](#top-5-cities-with-highest-order-volumes)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Appendix](#appendix)
+
+
+
 # Sales Performance Analysis of an Electronic Company
 
+### Introducton
 This Power BI dashboard offers comprehensive insights into the sales performance of an electronics company, facilitating a nuanced understanding of key metrics and trends. Leveraging interactive visualizations enables the exploration of sales data across different periods, product performance, revenue distribution, geographical patterns, and growth opportunities.
 
 ### Data Source
